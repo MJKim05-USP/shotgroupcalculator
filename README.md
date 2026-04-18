@@ -33,3 +33,5 @@ An Android application that helps shooters calculate shot groups and scores by a
 4. **크기 보정:** 과녁의 중앙으로부터 드래그하여 앱상의 과녁 크기를 실제 크기와 맞춥니다.
 5. **탄착 확인:** **[탄착 입력]** 버튼을 눌러 과녁 사이즈를 고정합니다. 이후 화면을 터치하여 각 탄착군 위치를 찍습니다.
 6. **수정 기능:** 실수로 잘못 찍었을 경우, **[이전]** 버튼을 눌러 마지막으로 찍은 탄착을 즉시 되돌릴 수 있습니다.
+
+![Downloads](https://img.shields.io/github/downloads/MJKim05-USP/shotgroupcalculator/total.svg)
